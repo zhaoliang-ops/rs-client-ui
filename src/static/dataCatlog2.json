@@ -1,0 +1,151 @@
+[
+    {
+        "label": "哨兵系列",
+        "appliedfielid": 1,
+        "value": "002001",
+        "level": 2,
+        "lable1": "Sentinel-1",
+        "product_type_code": 311,
+        "publishrate": "哨兵系列",
+        "resolution": 305,
+        "children":[
+            {
+                "label":"Sentinel-2A",
+                "value":"32430020020014043000100"
+            },
+            {
+                "label":"Sentinel-2B",
+                "value":"32430020020024043000100"
+            },
+            {
+                "label":"Sentinel-5P",
+                "value":"36410020060176005090100"
+            }
+        ]
+    },{
+        "label": "中分成像光谱系列",
+        "appliedfielid": 2,
+        "value": "002001",
+        "level": 2,
+        "product_name": "Sentinel-1",
+        "product_type_code": 311,
+        "publishrate": "哨兵系列",
+        "resolution": 305,
+        "children":[
+            {
+                "label":"MYD03",
+                "value":"18190030010086015000600"
+            },
+            {
+                "label":"MOD021KM",
+                "value":"17190030010466015000600"
+            },
+            {
+                "label":"MOD03",
+                "value":"17190030010516015000600"
+            }
+        ]
+    },{
+        "label": "陆地卫星系列",
+        "appliedfielid": 3,
+        "value": "002001",
+        "level": 2,
+        "product_name": "Sentinel-1",
+        "product_type_code": 311,
+        "publishrate": "哨兵系列",
+        "resolution": 4,
+        "children":[
+            {
+                "label":"LANDSAT_ETM_C1",
+                "value":"14260010010034023030100"
+            },
+            {
+                "label":"LSR_LANDSAT_8_C1",
+                "value":"15380010020034023030100"
+            },
+            {
+                "label":"LANDSAT_8_C1",
+                "value":"15380010010044023030100"
+            }
+        ]
+    },{
+        "label": "海洋与大气系列卫星",
+        "appliedfielid": 4,
+        "value": "002001",
+        "level": 2,
+        "product_name": "Sentinel-1",
+        "product_type_code": 311,
+        "publishrate": "哨兵系列",
+        "resolution": 305,
+        "children":[
+            {
+                "label":"AIRS",
+                "value":"18420070040016005030600"
+            },
+            {
+                "label":"OMI",
+                "value":"40450060020026005100300"
+            }
+        ]
+    },{
+        "label": "晚间标准陆地卫星系列",
+        "appliedfielid": 5,
+        "value": "002001",
+        "level": 2,
+        "product_name": "Sentinel-1",
+        "product_type_code": 311,
+        "publishrate": "哨兵系列",
+        "resolution": 305,
+        "children":[
+            {
+                "label":"OML1BIRR",
+                "value":"1430020020014043000100"
+            },
+            {
+                "label":"OML1BRUG",
+                "value":"1430020020024043000100"
+            },
+            {
+                "label":"OML1BRVG",
+                "value":"1410020060176005090100"
+            }
+        ]
+    },{
+        "label": "晚上星系列",
+        "appliedfielid": 6,
+        "value": "002001",
+        "level": 2,
+        "product_name": "Sentinel-1",
+        "product_type_code": 311,
+        "publishrate": "哨兵系列",
+        "resolution": 305,
+        "children":[
+            {
+                "label":"AIRS2SUP",
+                "value":"1430020020014043000100"
+            },
+            {
+                "label":"AIRS2CCF",
+                "value":"1430020020024043000100"
+            }
+        ]
+    },{
+        "label": "向日葵系列",
+        "appliedfielid": 7,
+        "value": "002001",
+        "level": 2,
+        "product_name": "Sentinel-1",
+        "product_type_code": 311,
+        "publishrate": "哨兵系列",
+        "resolution": 305,
+        "children":[
+            {
+                "label":"H8_L1_Full_disk_2km",
+                "value":"19370040020018005060100"
+            },
+            {
+                "label":"H8_L1_Full_disk_5km",
+                "value":"19370040020028005020100"
+            }
+        ]
+    }]
